@@ -1,8 +1,8 @@
 {
-  "name": "wheels-ada",
-  "version": "0.3.2",
+  "name": "wheels-fisher",
+  "version": "1.0.0",
   "description": "这是一个 UI 框架",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "npx parcel index.html --no-cache",
     "dev-test": "parcel watch test/* --no-cache & karma start",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adashuai5/wheels-ada.git"
+    "url": "git+https://github.com/ruantianqing/wheels-fisher.git"
   },
   "keywords": [
     "vue，ui"
@@ -20,9 +20,9 @@
   "author": "Zhou Yuanda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Adashuai5/wheels-ada/issues"
+    "url": "https://github.com/ruantianqing/wheels-fisher/issues"
   },
-  "homepage": "https://github.com/Adashuai5/wheels-ada#readme",
+  "homepage": "https://github.com/ruantianqing/wheels-fisher#readme",
   "dependencies": {
     "parcel": "^1.12.4",
     "sass-loader": "^8.0.2",

@@ -9,8 +9,6 @@ import Header from './src/header'
 import Content from './src/content'
 import Sider from './src/sider'
 import Footer from './src/footer'
-import Toast from './src/toast'
-import plugin from './src/plugin'
 import Tabs from './src/tabs'
 import TabsHead from './src/tabs-head'
 import TabsBody from './src/tabs-body'
@@ -32,8 +30,6 @@ export {
     Content,
     Sider,
     Footer,
-    Toast,
-    plugin,
     Tabs,
     TabsPane,
     TabsItem,

@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://adashuai5.github.io/wheels-ada/">
-    <img width="200" src="https://adashuai5.github.io/wheels-ada/ada.png">
+  <a href="https://github.com/ruantianqing/wheels-fisher/">
+    <img width="200" src="https://github.com/ruantianqing/wheels-fisher/ada.png">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://adashuai5.github.io/wheels-ada/" target="_blank">wheels-ada</a>
+  <a href="https://github.com/ruantianqing/wheels-fisher/" target="_blank">wheels-ada</a>
 </h1>
 
 <div align="center">
@@ -19,7 +19,7 @@ An easy UI components based on Vue.
 
 </div>
 
-wheels-ada UI 是一个实用的 UI 简易框架，目前提供了一些常用组件（不定期更新），适合 PC 端和移动端使用。
+wheels-fisher UI 是一个实用的 UI 简易框架，目前提供了一些常用组件（不定期更新），适合 PC 端和移动端使用。
 
 ## 现已支持
 
@@ -27,11 +27,9 @@ wheels-ada UI 是一个实用的 UI 简易框架，目前提供了一些常用�
 - [x] Input（输入框）
 - [x] Grid（栅栏）
 - [x] Layout（布局）
-- [x] Toast（吐司弹出）
 - [x] Tabs（标签页）
 - [x] Popover（弹出框）
 - [x] Collapse（折叠面板）
-- [x] List（列表）
 
 ## 介绍
 
@@ -48,23 +46,22 @@ wheels 就是轮子，这是我在使用 Vue 的过程中尝试实现的 UI 组�
 
    IE 8 及以上浏览器支持此样式。
 
-2. 安装 wheels-ada
+2. 安装 wheels-fisher
 
    ```
-   npm install wheels-ada
+   npm install wheels-fisher
    ```
 
    或者
 
    ```
-   yarn add wheels-ada
+   yarn add wheels-fisher
    ```
 
-3. 引入 wheels-ada
+3. 引入 wheels-fisher
 
    ```
-   import { Button } from 'wheels-ada'
-   import 'wheels-ada/dist/index.css'
+   import { Button } from 'wheels-fisher'
 
    export default {
        name: 'app',
@@ -73,19 +70,3 @@ wheels 就是轮子，这是我在使用 Vue 的过程中尝试实现的 UI 组�
        }
    }
    ```
-
-## 文档
-
-[官方文档](https://adashuai5.github.io/wheels-ada/)
-
-## 提问
-
-[Issues](https://github.com/Adashuai5/wheels-ada/issues)
-
-## 联系方式
-
-邮箱：yd.zhou@foxmail.com
-
-## 贡献代码
-
-[Pull request](https://github.com/Adashuai5/wheels-ada/pulls)
