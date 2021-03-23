@@ -18,11 +18,11 @@ title: 快速上手
 
 IE 8 及以上浏览器支持此样式。
 
-## 引入 wheels-ada
+## 引入 wheels-fisher
 
 ```js
-import { Button } from "wheels-ada";
-import "wheels-ada/dist/index.css";
+import { Button } from "wheels-fisher";
+import "wheels-fisher/dist/index.css";
 
 export default {
   name: "app",
