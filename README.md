@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/ruantianqing/wheels-fisher/" target="_blank">wheels-ada</a>
+  <a href="https://github.com/ruantianqing/wheels-fisher/" target="_blank">wheels-fisher</a>
 </h1>
 
 <div align="center">
