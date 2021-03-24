@@ -12,10 +12,6 @@
 
 An easy UI components based on Vue.
 
-[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
-[![npm package](https://img.shields.io/npm/v/wheels-ada.svg?style=flat-square)](https://www.npmjs.com/package/wheels-ada)
-![](https://img.shields.io/badge/language-JavaScript-yellow.svg)
-![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 </div>
 

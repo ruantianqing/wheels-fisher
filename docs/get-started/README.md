@@ -22,7 +22,6 @@ IE 8 及以上浏览器支持此样式。
 
 ```js
 import { Button } from "wheels-fisher";
-import "wheels-fisher/dist/index.css";
 
 export default {
   name: "app",
